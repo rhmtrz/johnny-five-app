@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f8860d4-f972-4c26-a6f6-53056ab363cc" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="766484039">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="23" />
+          <entry key="js" value="186" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="186" />
+          <entry key="PLAIN_TEXT" value="23" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node-johnnyfive/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node-johnnyfive/controlar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/node-johnnyfive/.gitignore" />
+        <option value="$PROJECT_DIR$/node-johnnyfive/controlar.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node-johnnyfive/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/@serialport/parser-byte-length/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/@serialport/parser-cctalk/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/@serialport/parser-delimiter/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/@serialport/parser-readline/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/@serialport/parser-ready/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/@serialport/parser-regex/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-bgblack/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-bgblue/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-bgcyan/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-bggreen/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-bgmagenta/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-bgred/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-bgwhite/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-bgyellow/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-black/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-blue/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-bold/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-colors/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-cyan/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-dim/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-gray/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-green/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-grey/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-hidden/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-inverse/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-italic/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-magenta/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-red/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-reset/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-strikethrough/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-styles/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-underline/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-white/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-wrap/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ansi-yellow/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/arr-swap/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/arr-swap/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/bindings/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/bl/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/browser-serialport/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/buffer-alloc-unsafe/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/buffer-alloc/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/buffer-fill/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/choices-separator/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/choices-separator/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/choices-separator/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/clone-deep/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/clone-deep/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/collection-visit/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/copy-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/decompress-response/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/detect-libc/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ease-component/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/error-symbol/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/expand-template/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/fs-constants/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/github-from-package/example/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/github-from-package/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/info-symbol/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/johnny-five/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/koalas/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/lodash.clonedeep/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/lodash.debounce/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/log-ok/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/log-utils/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/map-visit/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/mimic-response/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/mixin-object/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/mixin-object/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/mute-stream/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/nanotimer/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/node-abi/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/noop-logger/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/object-copy/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/object-copy/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/object-copy/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/object-copy/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/object-copy/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/object-copy/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/object-visit/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/pointer-symbol/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/promirepl/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-actions/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-actions/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-actions/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-base/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-checkbox/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-checkbox/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-checkbox/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-choices/node_modules/clone-deep/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-choices/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-choices/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-choices/node_modules/shallow-clone/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-choices/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-list/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-question/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-question/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-radio/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-radio/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/prompt-radio/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/radio-symbol/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/readline-ui/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/readline-ui/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/readline-ui/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/readline-ui/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/readline-ui/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/readline-ui/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/readline-ui/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/readline-utils/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/readline-utils/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/serialport/node_modules/prebuild-install/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/serialport/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/set-getter/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/shallow-clone/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/shallow-clone/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/simple-concat/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/simple-get/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/static-extend/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/static-extend/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/static-extend/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/static-extend/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/static-extend/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/static-extend/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/static-extend/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/static-extend/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/strip-color/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/success-symbol/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/tar-fs/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/tar-fs/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/tar-stream/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/temporal/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/terminal-paginator/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/terminal-paginator/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/terminal-paginator/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/time-stamp/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/to-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/to-object-path/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/toggle-array/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/warning-symbol/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/which-pm-runs/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/window-size/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/node-johnnyfive/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1680" />
+    <option name="y" value="53" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="johnny-five" type="b2602c69:ProjectViewProjectNode" />
+              <item name="johnny-five" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="johnny-five" type="b2602c69:ProjectViewProjectNode" />
+              <item name="johnny-five" type="462c0819:PsiDirectoryNode" />
+              <item name="node-johnnyfive" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f8860d4-f972-4c26-a6f6-53056ab363cc" name="Default Changelist" comment="" />
+      <created>1554627304959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554627304959</updated>
+      <workItem from="1554627306297" duration="690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="690000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="53" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17420132" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="RNConsole" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node-johnnyfive/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-johnnyfive/controlar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
