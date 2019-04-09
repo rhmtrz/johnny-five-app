@@ -1,0 +1,18 @@
+<!doctype html>
+
+<html>
+  <head>
+  
+  </head>
+  <body>
+    <h1>Hello World baby</h1>
+    <script src="/socket.io/socket.io.js"></script>
+  <script>
+    const = io('http://localhost');
+    socket.on('news', (data) => {
+      console.log(data);
+      socket.emit('My other Event ', { my: 'data'});
+    })
+  </script>
+  </body>
+</html>
