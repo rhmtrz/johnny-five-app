@@ -1,16 +1,16 @@
-const five = require("johnny-five");
+const socket = io();
 
-const socket = io('http://localhost:3000/', { forceNew: true });
-
-const board = new five.Board();
-const onTurnOnLed = () => {
-  socket.emit('turn on', console.log('button clicked ...'))
-  // board.on('ready', () => {
-  //   let led = new five.Led(13);
-  //   led.on();
-  // })
+const handleLedOn = () => {
+  let lighted = true
+  socket.emit('turn on', lighted)
 };
 
-const turnOn = document.getElementById('turnOn');
-turnOn.addEventListener('click', onTurnOnLed)
+const handleLedOff = () => {
+  socket.emit('turn off')
+}
 
+const onButton = document.getElementById('onButton');
+onButton.addEventListener('click', handleLedOn)
+
+const offButton = document.getElementById('offButton');
+offButton.addEventListener('click', handleLedOff)

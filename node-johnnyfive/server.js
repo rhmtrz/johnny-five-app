@@ -1,35 +1,35 @@
 const express = require('express');
-const app = express();
-
- const path = require('path');
-const server = require('http').createServer(app);
-const io = require('socket.io')(server);
-
+const app = express()
+const path = require('path');
+const http = require('http');
 const five = require("johnny-five");
+const WebSocket = require('ws');
 
-const PORT = process.env.PORT || 3000;
+app.use(express.static(__dirname + '/src'));
 
-app.listen(PORT, () => {
-  console.log('Server listening on port 3000 ...')
-})
+const server = http.createServer(app);
+server.listen(3000)
 
-app.use(express.static(path.join(__dirname, 'public')))
-
-
-app.get('/', (req, res) => {
-  res.sendFile(__dirname + '/index.html');
-});
-
-app.get('/handleDom.js', (req, res) => {
-  res.sendFile(__dirname + '/main.js');
-});
-
-io.on('connection', (socket) => {
-  console.log('connected ...');
+const board = new five.Board();
+board.on("ready", () => {
+  const io = require('socket.io')(server)
   
-  socket.on('turn on', (e) => {
-    socket.emit('turn on', e)
-  })
+  app.get('/', (req, res) => {
+    res.sendFile('/index.html', { root: path.join(__dirname, './src')});
+  });
+  
+  let led = new five.Led(13);
+  io.on('connection', function (socket) {
+    console.log("---hello connection---")
+    
+    socket.on('turn on', (lighted) => {
+        console.log(lighted)
+        led.on();
+    });
+    
+    socket.on('turn off', () => {
+      led.off()
+    })
+  });
 })
-
 
