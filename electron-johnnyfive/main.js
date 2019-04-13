@@ -1,36 +1,43 @@
-const { app, BrowserWindow, ipcMain } = require('electron');
-const path = require('path');
+const { app, BrowserWindow, ipcMain } = require('electron')
 const url = require('url');
-const five = require("johnny-five");
+const path = require('path');
+const five = require('johnny-five');
 
 
-require('electron-reload')(__dirname)
-let win;
+const board = new five.Board()
 
-const createWindow = () => {
-  win = new BrowserWindow();
-  
-  win.loadURL(url.format({
+  let win;
+  const createWindow = () => {
+    win = new BrowserWindow({});
+    
+    win.loadURL(url.format({
       pathname: path.join(__dirname, 'src/index.html'),
       protocol: 'file',
-      slashes: true
+      slashes: true,
     }));
+    
+    win.webContents.openDevTools();
   
-  win.webContents.openDevTools()
-  
-  ipcMain.on('hoge', (event, arg) => {
-    console.log('this is event', arg)
-    five.Board().on('ready', () => {
+    board.on('ready', () => {
       let led = new five.Led(13);
-      led.on()
+      ipcMain.on('turn-on', (event, arg) => {
+        console.log('Hello World', arg)
+        led.on();
+      })
+  
+      ipcMain.on('turn-off', (event, arg) => {
+        console.log('Hello World', arg)
+        led.off();
+      })
     })
-  })
- 
-};
+  }
+  
+  app.on('ready', createWindow)
+  
+  app.on('all-window-closed', () => {
+    app.quit();
+  });
 
-app.on('ready', createWindow)
 
-app.on('all-window-closed', () => {
-  app.quit()
-});
+
 
