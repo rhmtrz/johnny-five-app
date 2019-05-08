@@ -19,16 +19,31 @@ board.on("ready", () => {
   });
   
   let led = new five.Led(13);
+  let button = new five.Button({
+    pin: 2,
+    invert: true
+  });
   io.on('connection', function (socket) {
     console.log("---hello connection---")
     
-    socket.on('turn on', (lighted) => {
+    socket.on('turn-on', (lighted) => {
         console.log(lighted)
         led.on();
+        button.on('press', () => {
+          console.log('button pressed')
+        })
     });
     
-    socket.on('turn off', () => {
-      led.off()
+    socket.on('turn-off', () => {
+      led.off();
+      button.on('release', () => {
+        socket.to('released', 'OFF')
+      })
+    })
+    
+    button.on('press', () => {
+      console.log('button pressed')
+      socket.emit('released', 'hellow wordld')
     })
   });
 })
